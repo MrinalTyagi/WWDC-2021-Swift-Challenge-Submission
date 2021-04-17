@@ -8,6 +8,9 @@ The main focus of this playground is to help learn and visualize the working of 
 4. The results of the training process are presented on the next view controller.
 5. After that the user can input Double values in text field in order to output the class predicted by the neural network. 
 
+# Demo Video
+![Demo] (https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission/blob/main/Screenshots/Screen%20Recording%202021-04-17%20at%205.40.23%20PM.mov)
+
 # Screenshots
 ![Getting Started](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission/blob/main/Screenshots/Screenshot%202021-04-17%20at%206.47.40%20PM.png)
 ![Dataset](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission/blob/main/Screenshots/Screenshot%202021-04-17%20at%206.47.52%20PM.png)
