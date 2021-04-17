@@ -9,7 +9,9 @@ The main focus of this playground is to help learn and visualize the working of 
 5. After that the user can input Double values in text field in order to output the class predicted by the neural network. 
 
 # Demo Video
-![Demo](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission/blob/main/Screenshots/Screen%20Recording%202021-04-17%20at%205.40.23%20PM.mov)
+![Demo](https://user-images.githubusercontent.com/21031150/115115223-d9ad3600-9fb0-11eb-90d8-cf9623bdd47a.mov)
+
+
 
 # Screenshots
 ![Getting Started](https://github.com/MrinalTyagi/WWDC-2021-Swift-Challenge-Submission/blob/main/Screenshots/Screenshot%202021-04-17%20at%206.47.40%20PM.png)
